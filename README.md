@@ -9,14 +9,16 @@ The game that I chose to do my VR interface for was an old school platformer whi
  Unity Store Assets Used:
 SteamVR Plugin – Steam
 https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
+
 Paving Stone 01 – VIRTUALSTAR
 https://assetstore.unity.com/search?q=Paving&q=Stone&q=01&k=Paving%20Stone%2001
+
 Building Kit 1 – MOJO-STRUCTURE
 https://assetstore.unity.com
 
  Some Links for Research: 
- https://www.vrfocus.com/2018/01/the-state-of-immersive-reality-in-2018/
- https://www.magicleap.com/magic-leap-one 
+ https://www.vrfocus.com/2018/01/the-state-of-immersive-reality-in-2018/, 
+ https://www.magicleap.com/magic-leap-one, 
  https://www.vrfocus.com/2018/09/developer-profile-make-real/
  
  Video Links: https://www.youtube.com/watch?v=8rrH4T9HF8s, https://www.youtube.com/watch?v=8rrH4T9HF8s.
