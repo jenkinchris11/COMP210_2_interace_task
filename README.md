@@ -4,7 +4,7 @@ AR/VR Project
 Fighting against Motion Sickness
  
  
-The game that I chose to do my VR interface for was an old school platformer which would contain a lot of jumping and when jumping in Virtual Reality it can make you quite sick if you are not careful so the idea I have chosen is to do a sort of mini game/playroom where users can exit the game when feeling sick and can just play short mini games or just throw objects about to pass the time until they feel ready to go back into the platformer. This will include things such as a room where you can throw objects about for entertainment.
+The game that I chose to do my VR interface for was an old school platformer which would contain a lot of jumping and when jumping in Virtual Reality it can make you quite sick if you are not careful so the idea I have chosen is to do a sort of mini game/playroom where users can exit the game when feeling sick but not have to exit the Virtual Reality experience and can just play short mini games or just throw objects about to pass the time until they feel ready to go back into the platformer. This will include things such as a room where you can throw objects about for entertainment.
 
 Unity Store Assets Used:
 
